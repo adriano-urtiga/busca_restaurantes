@@ -1,3 +1,7 @@
+# Para utilizar o app, precisa criar uma chave do google maps e coloca-la na pasta raiz em um arquivo .env
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
